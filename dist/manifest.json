@@ -4,7 +4,13 @@
   "version": "0.1.0",
 
   "permissions": ["<all_urls>"],
-
+  "icons": {
+    "16": "icons/coronavirus (1).png",
+    "24": "icons/coronavirus (2).png",
+    "32": "icons/coronavirus (3).png",
+    "64": "icons/coronavirus (4).png",
+    "128": "icons/coronavirus (5).png"
+  },
   "browser_action": {
     "default_popup": "index.html"
   }
